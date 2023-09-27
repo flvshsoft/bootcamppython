@@ -1,0 +1,12 @@
+Requirement Python
+
+BROWSER
+Chrome : https://www.google.com/chrome/
+#atau browser lain
+
+Online
+https://colab.google/
+
+
+Offline
+Anaconda : https://www.anaconda.com/download
